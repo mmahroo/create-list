@@ -1,0 +1,19 @@
+.done{
+	text-decoration: line-through ;
+}
+li button {
+  margin-left:100px;
+}
+#center{
+	text-align: center;
+}
+
+.decorate{
+	background-color: lightcyan;
+	margin: auto;
+	border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width :500px;
+}
+
